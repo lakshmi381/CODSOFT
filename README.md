@@ -15,3 +15,21 @@ This code demonstrates basic C++ concepts such as random number generation, user
 
 
 # TASK2: SIMPLE CALCULATOR
+
+User input:
+
+Prompt the user to enter two numbers and an operation.
+Read the input and store them in number1, number2, and operation.
+Perform the operation:
+
+Declare a variable result to store the result.
+Use a switch statement to perform the operation based on the value of operation.
+Add, subtract, multiply, or divide number1 and number2 based on the chosen operation.
+Store the result in result.
+Display the result:
+
+Output the result using cout if the operation is valid.
+If the operation is division and the second number is zero, display an error message.
+End the program:
+
+Return 0 to indicate successful program execution.
