@@ -1,2 +1,5 @@
 # CODSOFT
-4 WEEKS VIRTUAL INTERNSHIP
+
+Participate in a comprehensive 4-week virtual internship experience.
+
+# TASK1: NUMBER GUESSING GAME
