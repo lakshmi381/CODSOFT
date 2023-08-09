@@ -12,3 +12,6 @@ The user is welcomed to the game, and a loop begins. Inside the loop, the user i
 The loop continues until the user's guess matches the random number. The program keeps track of the number of attempts made by incrementing the "attempts" counter. Once the user successfully guesses the correct number, the loop ends, and the program displays a congratulatory message along with the number of attempts it took to guess correctly.
 
 This code demonstrates basic C++ concepts such as random number generation, user input, conditional statements, loops, and output. It offers an interactive and engaging experience where users attempt to guess the randomly generated number within a limited number of attempts.
+
+
+# TASK2: SIMPLE CALCULATOR
